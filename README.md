@@ -2,7 +2,10 @@
 A simple android app with nodejs backend.
 
 Execute `npm install` to add required node modules. <br>
-Use `node index` or `nodemon index` to start the server.
+Use `node index` or `nodemon index` to start the server.<br>
+<br>
+This only supports get requests which only has one object.
+
 
 ## Note
 In the `index.js` file change listen ip to your own ip address. <br>
